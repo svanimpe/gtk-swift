@@ -1,0 +1,4 @@
+module CGTK [system] {
+    umbrella header "header.h"
+    export *
+}
